@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS BRAIN-001 Chamber",
+  "description": "Modular polyglot cognitive Brain architecture and operator console featuring real-time 15-chamber cognition, attention mathematics, and execution boundaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
